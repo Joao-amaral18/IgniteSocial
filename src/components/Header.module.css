@@ -1,0 +1,12 @@
+.header{
+    font-size: 2rem;
+    background-color: #091919;
+    display: flex;
+    padding: 1.25rem 0;
+    justify-content: center;
+    color: #f1f6f6;
+}
+
+img{
+    height: 2.25rem;
+}
